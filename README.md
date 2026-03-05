@@ -1,4 +1,4 @@
-# export_music_playlists
+# Export Apple Music playlists
 
 A simple shell script to export all user playlists from the macOS **Music** app as **M3U** or plain **text** files.
 
@@ -75,4 +75,5 @@ All **user-created playlists**, including smart playlists. Folder playlists (whi
 ## License
 
 MIT
+
 
