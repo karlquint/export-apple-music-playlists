@@ -8,7 +8,7 @@ Apple Music has no built-in way to export playlists as portable files. This scri
 
 ## Requirements
 
-- macOS (tested on Ventura / Sonoma / Sequoia)
+- macOS (tested on Tahoe)
 - The **Music** app (will launch automatically if not running)
 
 No dependencies, no installs — just a single bash script.
@@ -75,3 +75,4 @@ All **user-created playlists**, including smart playlists. Folder playlists (whi
 ## License
 
 MIT
+
