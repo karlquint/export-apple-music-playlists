@@ -4,7 +4,7 @@ A simple shell script to export all user playlists from the macOS **Music** app 
 
 ## Why?
 
-Apple Music has no built-in way to export playlists as portable files. This script talks to the Music app via AppleScript and writes one file per playlist — ready to import into VLC, foobar2000, Plex, or any other player that understands M3U.
+Apple Music has no built-in way to batch export playlists as portable files. This script talks to the Music app via AppleScript and writes one file per playlist — ready to import into VLC, foobar2000, Plex, or any other player that understands M3U.
 
 ## Requirements
 
@@ -75,5 +75,6 @@ All **user-created playlists**, including smart playlists. Folder playlists (whi
 ## License
 
 MIT
+
 
 
